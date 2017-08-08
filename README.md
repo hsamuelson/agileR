@@ -1,5 +1,5 @@
 # agileR
-agileR was created by hsamuelson, because of a lack of official standalone versions of R.
+agileR was created by hsamuelson, because of a lack of official standalone versions of R. This is also a light weight version of R.
 ## Getting Started 
 To start simply Clone the git
 
