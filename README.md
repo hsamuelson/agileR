@@ -19,6 +19,8 @@ To start simply Clone the git
   ```
   R or R.exe
   ```
+  #### Running with the .bat
+  alternativly you can also start an R session with the agileR.bat file
 
 ### Linux & Mac OS
 There is no active support for Linux or Mac
